@@ -1,5 +1,5 @@
 # Simple Production Dockerfile for NGX Voice Sales Agent
-FROM python:3.10-slim
+FROM python:3.13-slim
 
 # Variables de entorno para Python
 ENV PYTHONDONTWRITEBYTECODE=1 \
