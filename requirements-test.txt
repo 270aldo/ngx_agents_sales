@@ -12,4 +12,4 @@ pytest-cov==4.1.0
 pytest-xdist==3.5.0
 
 # Coverage
-coverage==7.4.0
+coverage==7.10.1
