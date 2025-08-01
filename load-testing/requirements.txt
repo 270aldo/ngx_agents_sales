@@ -1,6 +1,6 @@
 # Load testing dependencies
 locust==2.17.0
-pytest-benchmark==4.0.0
+pytest-benchmark==5.1.0
 faker==20.1.0
 matplotlib==3.7.1
 pandas==2.0.3
