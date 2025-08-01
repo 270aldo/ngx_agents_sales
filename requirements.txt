@@ -29,7 +29,7 @@ asyncpg==0.30.0
 sqlalchemy==2.0.25
 
 # Utilities
-python-dotenv==1.0.1
+python-dotenv==1.1.1
 pyjwt==2.8.0
 tenacity==9.0.0
 
