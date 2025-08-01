@@ -57,7 +57,7 @@ boto3==1.34.14  # For AWS Secrets Manager
 bleach==6.2.0  # For HTML sanitization in XSS protection
 
 # Caching
-redis==5.0.1  # Redis client for caching
+redis==6.2.0  # Redis client for caching
 hiredis==2.3.2  # C parser for improved Redis performance
 
 # Resilience Patterns
